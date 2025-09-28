@@ -44,7 +44,7 @@ python3 src/generate_data.py
 ```
 ## Open the generated html:
 
-Linux: xdg-open plan.html
+Linux: ```xdg-open plan.html```
 
 Windows and Mac: uhh use file explorer and open the file?
 
