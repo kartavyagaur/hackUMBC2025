@@ -8,7 +8,10 @@ This is a Python prototype that generates a **career path graph** based on a use
 - 🔵 Target job  
 
 ---
-
+<p align="center">
+  <img src="/ss1.png" width="400" />
+  <img src="/ss2.png" width="400" />
+</p>
 ## Requirements
 
 - Python 3.10+ (tested on 3.13)
