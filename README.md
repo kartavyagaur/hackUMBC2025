@@ -12,6 +12,7 @@ This is a Python prototype that generates a **career path graph** based on a use
   <img src="/ss1.png" height="400" />
   <img src="/ss2.png" height="400" />
 </p>
+
 ## Requirements
 
 - Python 3.10+ (tested on 3.13)
