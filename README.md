@@ -43,7 +43,8 @@ python3 src/generate_data.py
  python3 src/demo_visualize.py --company AcmeTech --position "Machine Learning Engineer" --name "Alex" --courses "CS101,ML201" --internships "Intern - FinanceX" --out plan.html
 ```
 ## Open the generated html:
-xdg-open plan.html
+Linux: xdg-open plan.html
+Windows and Mac: uhh use file explorer and open the file?
 
 ## Input Options:
 ```bash
