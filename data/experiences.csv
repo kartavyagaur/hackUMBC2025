@@ -1,0 +1,884 @@
+person_id,experience_type,title,organization,semester
+p001,course,ALG301,University,Fall 2018
+p001,course,CV330,University,Fall 2018
+p001,course,ML201,University,Fall 2019
+p001,club,AI Club,Campus,Spring 2022
+p001,internship,Intern - FinanceX,FinanceX,Summer 2021
+p001,job,Software Engineer,Meta,2024
+p002,course,ALG301,University,Fall 2018
+p002,course,CV330,University,Fall 2018
+p002,course,CS101,University,Fall 2019
+p002,course,DB240,University,Fall 2019
+p002,course,OS210,University,Fall 2020
+p002,course,ML201,University,Fall 2020
+p002,club,AI Club,Campus,Spring 2020
+p002,internship,Research Intern - UnivX,UnivX,Summer 2023
+p002,job,Machine Learning Engineer,BetaSoft,2024
+p003,course,DB240,University,Fall 2018
+p003,course,ALG301,University,Fall 2018
+p003,course,CV330,University,Fall 2019
+p003,course,OS210,University,Fall 2019
+p003,club,Security Club,Campus,Spring 2021
+p003,internship,Intern - Google,Google,Summer 2024
+p003,job,Junior Engineer,StartUpX,2019
+p003,job,Data Scientist,FinanceX,2024
+p004,course,DS220,University,Fall 2018
+p004,course,ML201,University,Fall 2018
+p004,course,ALG301,University,Fall 2019
+p004,course,OS210,University,Fall 2019
+p004,club,Data Science Club,Campus,Spring 2020
+p004,internship,Intern - Google,Google,Summer 2021
+p004,job,Data Scientist,Google,2024
+p005,course,CS101,University,Fall 2018
+p005,course,ALG301,University,Fall 2018
+p005,club,Data Science Club,Campus,Spring 2019
+p005,research,Research: Robotics,Lab,Summer 2019
+p005,internship,Research Intern - UnivX,UnivX,Summer 2020
+p005,job,Software Engineer,FinanceX,2024
+p006,course,DS220,University,Fall 2018
+p006,course,CS101,University,Fall 2018
+p006,course,CV330,University,Fall 2019
+p006,course,ML201,University,Fall 2019
+p006,club,Robotics Club,Campus,Spring 2019
+p006,internship,Intern - AcmeTech,AcmeTech,Summer 2023
+p006,job,Machine Learning Engineer,FinanceX,2024
+p007,course,CS101,University,Fall 2018
+p007,course,CV330,University,Fall 2018
+p007,course,DS220,University,Fall 2019
+p007,course,DB240,University,Fall 2019
+p007,course,ALG301,University,Fall 2020
+p007,course,ML201,University,Fall 2020
+p007,club,Security Club,Campus,Spring 2019
+p007,research,Research: Robotics,Lab,Summer 2018
+p007,internship,Intern - AcmeTech,AcmeTech,Summer 2022
+p007,job,Machine Learning Engineer,FinanceX,2024
+p008,course,ML201,University,Fall 2018
+p008,course,DB240,University,Fall 2018
+p008,course,ALG301,University,Fall 2019
+p008,club,Security Club,Campus,Spring 2021
+p008,job,Software Engineer,AcmeTech,2024
+p009,course,DB240,University,Fall 2018
+p009,course,CV330,University,Fall 2018
+p009,course,CS101,University,Fall 2019
+p009,club,Data Science Club,Campus,Spring 2019
+p009,research,Research: Vision,Lab,Summer 2019
+p009,internship,Intern - StartUpX,StartUpX,Summer 2024
+p009,job,Data Scientist,Google,2024
+p010,course,ML201,University,Fall 2018
+p010,course,CV330,University,Fall 2018
+p010,course,ALG301,University,Fall 2019
+p010,course,DB240,University,Fall 2019
+p010,course,DS220,University,Fall 2020
+p010,club,Security Club,Campus,Spring 2021
+p010,internship,Intern - AcmeTech,AcmeTech,Summer 2024
+p010,job,Software Engineer,AcmeTech,2024
+p011,course,CV330,University,Fall 2018
+p011,course,CS101,University,Fall 2018
+p011,course,DB240,University,Fall 2019
+p011,course,ALG301,University,Fall 2019
+p011,course,ML201,University,Fall 2020
+p011,internship,Intern - Google,Google,Summer 2023
+p011,job,Machine Learning Engineer,BetaSoft,2024
+p012,course,CV330,University,Fall 2018
+p012,course,DS220,University,Fall 2018
+p012,club,Data Science Club,Campus,Spring 2020
+p012,internship,Intern - FinanceX,FinanceX,Summer 2021
+p012,job,Junior Engineer,AcmeTech,2019
+p012,job,SRE,BetaSoft,2024
+p013,course,ALG301,University,Fall 2018
+p013,course,ML201,University,Fall 2018
+p013,club,Robotics Club,Campus,Spring 2022
+p013,internship,Intern - Google,Google,Summer 2020
+p013,job,Machine Learning Engineer,AcmeTech,2024
+p014,course,CS101,University,Fall 2018
+p014,course,ALG301,University,Fall 2018
+p014,club,Security Club,Campus,Spring 2019
+p014,research,Research: Robotics,Lab,Summer 2022
+p014,internship,Intern - FinanceX,FinanceX,Summer 2021
+p014,job,Machine Learning Engineer,AcmeTech,2024
+p015,course,ML201,University,Fall 2018
+p015,course,CS101,University,Fall 2018
+p015,course,DS220,University,Fall 2019
+p015,course,DB240,University,Fall 2019
+p015,course,ALG301,University,Fall 2020
+p015,internship,Intern - AcmeTech,AcmeTech,Summer 2019
+p015,job,Software Engineer,CrowdStrike,2024
+p016,course,ML201,University,Fall 2018
+p016,course,CS101,University,Fall 2018
+p016,job,Data Analyst,BetaSoft,2019
+p016,job,Software Engineer,CrowdStrike,2024
+p017,course,CS101,University,Fall 2018
+p017,course,DB240,University,Fall 2018
+p017,course,CV330,University,Fall 2019
+p017,internship,Research Intern - UnivX,UnivX,Summer 2020
+p017,job,SWE I,BetaSoft,2019
+p017,job,Software Engineer,Google,2024
+p018,course,DB240,University,Fall 2018
+p018,course,ML201,University,Fall 2018
+p018,course,ALG301,University,Fall 2019
+p018,course,DS220,University,Fall 2019
+p018,internship,Research Intern - UnivX,UnivX,Summer 2019
+p018,job,Software Engineer,Meta,2024
+p019,course,DS220,University,Fall 2018
+p019,course,DB240,University,Fall 2018
+p019,course,ML201,University,Fall 2019
+p019,course,OS210,University,Fall 2019
+p019,course,ALG301,University,Fall 2020
+p019,club,Security Club,Campus,Spring 2020
+p019,internship,Research Intern - UnivX,UnivX,Summer 2023
+p019,job,MLOps Engineer,BetaSoft,2024
+p020,course,OS210,University,Fall 2018
+p020,course,ML201,University,Fall 2018
+p020,course,ALG301,University,Fall 2019
+p020,club,Data Science Club,Campus,Spring 2022
+p020,job,SWE I,BetaSoft,2019
+p020,job,Data Scientist,FinanceX,2024
+p021,course,ALG301,University,Fall 2018
+p021,course,DB240,University,Fall 2018
+p021,course,OS210,University,Fall 2019
+p021,course,ML201,University,Fall 2019
+p021,course,CV330,University,Fall 2020
+p021,course,DS220,University,Fall 2020
+p021,club,Security Club,Campus,Spring 2021
+p021,internship,Intern - Google,Google,Summer 2021
+p021,job,Software Engineer,Google,2024
+p022,course,ML201,University,Fall 2018
+p022,course,ALG301,University,Fall 2018
+p022,internship,Research Intern - UnivX,UnivX,Summer 2019
+p022,job,SWE I,Meta,2019
+p022,job,Software Engineer,AcmeTech,2024
+p023,course,CS101,University,Fall 2018
+p023,course,DS220,University,Fall 2018
+p023,course,OS210,University,Fall 2019
+p023,course,CV330,University,Fall 2019
+p023,club,Data Science Club,Campus,Spring 2020
+p023,research,Research: Security,Lab,Summer 2019
+p023,internship,Intern - FinanceX,FinanceX,Summer 2022
+p023,job,SWE I,FinanceX,2019
+p023,job,Data Scientist,StartUpX,2024
+p024,course,CS101,University,Fall 2018
+p024,course,OS210,University,Fall 2018
+p024,course,DB240,University,Fall 2019
+p024,course,ML201,University,Fall 2019
+p024,internship,Intern - StartUpX,StartUpX,Summer 2021
+p024,job,Data Scientist,Google,2024
+p025,course,ML201,University,Fall 2018
+p025,course,DS220,University,Fall 2018
+p025,course,CS101,University,Fall 2019
+p025,course,OS210,University,Fall 2019
+p025,course,CV330,University,Fall 2020
+p025,course,DB240,University,Fall 2020
+p025,club,Data Science Club,Campus,Spring 2019
+p025,job,Software Engineer,AcmeTech,2024
+p026,course,DS220,University,Fall 2018
+p026,course,CV330,University,Fall 2018
+p026,course,CS101,University,Fall 2019
+p026,research,Research: Security,Lab,Summer 2018
+p026,internship,Research Intern - UnivX,UnivX,Summer 2023
+p026,job,Data Scientist,BetaSoft,2024
+p027,course,CV330,University,Fall 2018
+p027,course,ML201,University,Fall 2018
+p027,course,ALG301,University,Fall 2019
+p027,course,DS220,University,Fall 2019
+p027,course,CS101,University,Fall 2020
+p027,club,AI Club,Campus,Spring 2020
+p027,internship,Intern - FinanceX,FinanceX,Summer 2024
+p027,job,MLOps Engineer,FinanceX,2024
+p028,course,CV330,University,Fall 2018
+p028,course,OS210,University,Fall 2018
+p028,course,DS220,University,Fall 2019
+p028,course,ML201,University,Fall 2019
+p028,course,CS101,University,Fall 2020
+p028,course,DB240,University,Fall 2020
+p028,internship,Intern - FinanceX,FinanceX,Summer 2023
+p028,job,Data Analyst,Google,2019
+p028,job,Software Engineer,CrowdStrike,2024
+p029,course,ML201,University,Fall 2018
+p029,course,DB240,University,Fall 2018
+p029,course,DS220,University,Fall 2019
+p029,club,AI Club,Campus,Spring 2018
+p029,research,Research: Recommendation,Lab,Summer 2018
+p029,internship,Intern - StartUpX,StartUpX,Summer 2022
+p029,job,Data Scientist,Google,2024
+p030,course,DS220,University,Fall 2018
+p030,course,CS101,University,Fall 2018
+p030,course,ML201,University,Fall 2019
+p030,course,ALG301,University,Fall 2019
+p030,course,OS210,University,Fall 2020
+p030,club,Data Science Club,Campus,Spring 2021
+p030,research,Research: Recommendation,Lab,Summer 2021
+p030,internship,Intern - FinanceX,FinanceX,Summer 2020
+p030,job,Data Scientist,CrowdStrike,2024
+p031,course,OS210,University,Fall 2018
+p031,course,CV330,University,Fall 2018
+p031,course,DS220,University,Fall 2019
+p031,course,ALG301,University,Fall 2019
+p031,course,CS101,University,Fall 2020
+p031,course,DB240,University,Fall 2020
+p031,research,Research: Vision,Lab,Summer 2021
+p031,internship,Intern - Google,Google,Summer 2024
+p031,job,SWE I,FinanceX,2019
+p031,job,Software Engineer,BetaSoft,2024
+p032,course,ML201,University,Fall 2018
+p032,course,OS210,University,Fall 2018
+p032,course,ALG301,University,Fall 2019
+p032,job,SWE I,CrowdStrike,2019
+p032,job,Software Engineer,CrowdStrike,2024
+p033,course,CS101,University,Fall 2018
+p033,course,DS220,University,Fall 2018
+p033,course,CV330,University,Fall 2019
+p033,course,DB240,University,Fall 2019
+p033,club,Data Science Club,Campus,Spring 2022
+p033,internship,Intern - FinanceX,FinanceX,Summer 2020
+p033,job,Junior Engineer,FinanceX,2019
+p033,job,Machine Learning Engineer,CrowdStrike,2024
+p034,course,DB240,University,Fall 2018
+p034,course,CV330,University,Fall 2018
+p034,course,ML201,University,Fall 2019
+p034,club,Security Club,Campus,Spring 2019
+p034,job,Machine Learning Engineer,BetaSoft,2024
+p035,course,DS220,University,Fall 2018
+p035,course,CS101,University,Fall 2018
+p035,course,OS210,University,Fall 2019
+p035,club,AI Club,Campus,Spring 2021
+p035,research,Research: Vision,Lab,Summer 2020
+p035,internship,Intern - StartUpX,StartUpX,Summer 2019
+p035,job,Data Scientist,CrowdStrike,2024
+p036,course,OS210,University,Fall 2018
+p036,course,CS101,University,Fall 2018
+p036,course,DS220,University,Fall 2019
+p036,course,ALG301,University,Fall 2019
+p036,course,DB240,University,Fall 2020
+p036,job,Machine Learning Engineer,Meta,2024
+p037,course,OS210,University,Fall 2018
+p037,course,DB240,University,Fall 2018
+p037,course,ALG301,University,Fall 2019
+p037,course,CS101,University,Fall 2019
+p037,course,DS220,University,Fall 2020
+p037,club,Data Science Club,Campus,Spring 2022
+p037,research,Research: Robotics,Lab,Summer 2020
+p037,internship,Research Intern - UnivX,UnivX,Summer 2019
+p037,job,SWE I,Meta,2019
+p037,job,MLOps Engineer,BetaSoft,2024
+p038,course,CS101,University,Fall 2018
+p038,course,CV330,University,Fall 2018
+p038,course,OS210,University,Fall 2019
+p038,course,ML201,University,Fall 2019
+p038,course,DS220,University,Fall 2020
+p038,course,DB240,University,Fall 2020
+p038,internship,Intern - AcmeTech,AcmeTech,Summer 2019
+p038,job,SWE I,FinanceX,2019
+p038,job,Software Engineer,AcmeTech,2024
+p039,course,OS210,University,Fall 2018
+p039,course,CV330,University,Fall 2018
+p039,course,DB240,University,Fall 2019
+p039,course,ML201,University,Fall 2019
+p039,course,CS101,University,Fall 2020
+p039,club,Data Science Club,Campus,Spring 2019
+p039,internship,Intern - Google,Google,Summer 2023
+p039,job,Data Scientist,BetaSoft,2024
+p040,course,OS210,University,Fall 2018
+p040,course,CV330,University,Fall 2018
+p040,course,DB240,University,Fall 2019
+p040,course,ALG301,University,Fall 2019
+p040,research,Research: Recommendation,Lab,Summer 2019
+p040,internship,Research Intern - UnivX,UnivX,Summer 2019
+p040,job,SRE,Google,2024
+p041,course,DB240,University,Fall 2018
+p041,course,ALG301,University,Fall 2018
+p041,course,DS220,University,Fall 2019
+p041,course,CV330,University,Fall 2019
+p041,course,CS101,University,Fall 2020
+p041,course,ML201,University,Fall 2020
+p041,club,Security Club,Campus,Spring 2020
+p041,internship,Intern - AcmeTech,AcmeTech,Summer 2021
+p041,job,Machine Learning Engineer,StartUpX,2024
+p042,course,CV330,University,Fall 2018
+p042,course,OS210,University,Fall 2018
+p042,club,AI Club,Campus,Spring 2021
+p042,internship,Research Intern - UnivX,UnivX,Summer 2023
+p042,job,Data Scientist,BetaSoft,2024
+p043,course,ML201,University,Fall 2018
+p043,course,CV330,University,Fall 2018
+p043,course,ALG301,University,Fall 2019
+p043,course,DB240,University,Fall 2019
+p043,course,CS101,University,Fall 2020
+p043,course,OS210,University,Fall 2020
+p043,club,Security Club,Campus,Spring 2020
+p043,research,Research: Vision,Lab,Summer 2020
+p043,internship,Intern - StartUpX,StartUpX,Summer 2020
+p043,job,SWE I,StartUpX,2019
+p043,job,Software Engineer,AcmeTech,2024
+p044,course,OS210,University,Fall 2018
+p044,course,CS101,University,Fall 2018
+p044,club,AI Club,Campus,Spring 2018
+p044,research,Research: Vision,Lab,Summer 2020
+p044,internship,Intern - AcmeTech,AcmeTech,Summer 2023
+p044,job,Junior Engineer,StartUpX,2019
+p044,job,Software Engineer,CrowdStrike,2024
+p045,course,OS210,University,Fall 2018
+p045,course,ML201,University,Fall 2018
+p045,course,ALG301,University,Fall 2019
+p045,course,DS220,University,Fall 2019
+p045,course,DB240,University,Fall 2020
+p045,club,AI Club,Campus,Spring 2018
+p045,internship,Intern - FinanceX,FinanceX,Summer 2019
+p045,job,MLOps Engineer,StartUpX,2024
+p046,course,CS101,University,Fall 2018
+p046,course,DB240,University,Fall 2018
+p046,course,DS220,University,Fall 2019
+p046,course,ML201,University,Fall 2019
+p046,course,OS210,University,Fall 2020
+p046,course,CV330,University,Fall 2020
+p046,research,Research: Robotics,Lab,Summer 2018
+p046,internship,Intern - StartUpX,StartUpX,Summer 2022
+p046,job,Junior Engineer,StartUpX,2019
+p046,job,Security Engineer,StartUpX,2024
+p047,course,DB240,University,Fall 2018
+p047,course,OS210,University,Fall 2018
+p047,course,DS220,University,Fall 2019
+p047,course,ALG301,University,Fall 2019
+p047,course,CV330,University,Fall 2020
+p047,internship,Intern - Google,Google,Summer 2023
+p047,job,Junior Engineer,FinanceX,2019
+p047,job,Data Scientist,BetaSoft,2024
+p048,course,CS101,University,Fall 2018
+p048,course,ML201,University,Fall 2018
+p048,course,CV330,University,Fall 2019
+p048,club,Robotics Club,Campus,Spring 2020
+p048,internship,Intern - Google,Google,Summer 2020
+p048,job,Security Engineer,FinanceX,2024
+p049,course,CV330,University,Fall 2018
+p049,course,DB240,University,Fall 2018
+p049,club,Data Science Club,Campus,Spring 2018
+p049,internship,Intern - StartUpX,StartUpX,Summer 2020
+p049,job,MLOps Engineer,StartUpX,2024
+p050,course,OS210,University,Fall 2018
+p050,course,CS101,University,Fall 2018
+p050,course,ML201,University,Fall 2019
+p050,internship,Research Intern - UnivX,UnivX,Summer 2024
+p050,job,SWE I,BetaSoft,2019
+p050,job,SRE,AcmeTech,2024
+p051,course,OS210,University,Fall 2018
+p051,course,CS101,University,Fall 2018
+p051,course,ALG301,University,Fall 2019
+p051,course,CV330,University,Fall 2019
+p051,research,Research: Robotics,Lab,Summer 2019
+p051,internship,Intern - Google,Google,Summer 2022
+p051,job,Data Scientist,CrowdStrike,2024
+p052,course,CV330,University,Fall 2018
+p052,course,CS101,University,Fall 2018
+p052,course,OS210,University,Fall 2019
+p052,course,DS220,University,Fall 2019
+p052,course,ML201,University,Fall 2020
+p052,club,AI Club,Campus,Spring 2022
+p052,internship,Intern - AcmeTech,AcmeTech,Summer 2023
+p052,job,Software Engineer,CrowdStrike,2024
+p053,course,DB240,University,Fall 2018
+p053,course,OS210,University,Fall 2018
+p053,course,CS101,University,Fall 2019
+p053,course,ALG301,University,Fall 2019
+p053,club,AI Club,Campus,Spring 2018
+p053,internship,Intern - Google,Google,Summer 2019
+p053,job,SWE I,StartUpX,2019
+p053,job,Machine Learning Engineer,FinanceX,2024
+p054,course,CV330,University,Fall 2018
+p054,course,DS220,University,Fall 2018
+p054,course,CS101,University,Fall 2019
+p054,club,Data Science Club,Campus,Spring 2018
+p054,job,Data Scientist,AcmeTech,2024
+p055,course,ML201,University,Fall 2018
+p055,course,CS101,University,Fall 2018
+p055,club,Data Science Club,Campus,Spring 2019
+p055,research,Research: Recommendation,Lab,Summer 2019
+p055,internship,Intern - StartUpX,StartUpX,Summer 2020
+p055,job,Security Engineer,BetaSoft,2024
+p056,course,ALG301,University,Fall 2018
+p056,course,DS220,University,Fall 2018
+p056,course,OS210,University,Fall 2019
+p056,course,CV330,University,Fall 2019
+p056,club,Robotics Club,Campus,Spring 2020
+p056,research,Research: Security,Lab,Summer 2021
+p056,internship,Intern - AcmeTech,AcmeTech,Summer 2021
+p056,job,Data Scientist,Google,2024
+p057,course,OS210,University,Fall 2018
+p057,course,CV330,University,Fall 2018
+p057,course,CS101,University,Fall 2019
+p057,course,DS220,University,Fall 2019
+p057,course,ML201,University,Fall 2020
+p057,course,ALG301,University,Fall 2020
+p057,research,Research: NLP,Lab,Summer 2022
+p057,internship,Intern - AcmeTech,AcmeTech,Summer 2021
+p057,job,Data Analyst,CrowdStrike,2019
+p057,job,Machine Learning Engineer,Google,2024
+p058,course,OS210,University,Fall 2018
+p058,course,DS220,University,Fall 2018
+p058,club,Security Club,Campus,Spring 2022
+p058,research,Research: NLP,Lab,Summer 2021
+p058,internship,Intern - StartUpX,StartUpX,Summer 2024
+p058,job,Software Engineer,Meta,2024
+p059,course,OS210,University,Fall 2018
+p059,course,ML201,University,Fall 2018
+p059,course,DB240,University,Fall 2019
+p059,internship,Research Intern - UnivX,UnivX,Summer 2019
+p059,job,Software Engineer,BetaSoft,2024
+p060,course,DS220,University,Fall 2018
+p060,course,ALG301,University,Fall 2018
+p060,course,ML201,University,Fall 2019
+p060,club,AI Club,Campus,Spring 2018
+p060,internship,Intern - StartUpX,StartUpX,Summer 2024
+p060,job,Software Engineer,FinanceX,2024
+p061,course,CV330,University,Fall 2018
+p061,course,ALG301,University,Fall 2018
+p061,course,CS101,University,Fall 2019
+p061,club,Security Club,Campus,Spring 2020
+p061,internship,Intern - AcmeTech,AcmeTech,Summer 2020
+p061,job,Data Analyst,FinanceX,2019
+p061,job,MLOps Engineer,AcmeTech,2024
+p062,course,CV330,University,Fall 2018
+p062,course,CS101,University,Fall 2018
+p062,course,DS220,University,Fall 2019
+p062,course,ALG301,University,Fall 2019
+p062,course,ML201,University,Fall 2020
+p062,course,OS210,University,Fall 2020
+p062,club,Robotics Club,Campus,Spring 2018
+p062,internship,Intern - AcmeTech,AcmeTech,Summer 2022
+p062,job,MLOps Engineer,Meta,2024
+p063,course,CS101,University,Fall 2018
+p063,course,OS210,University,Fall 2018
+p063,course,DS220,University,Fall 2019
+p063,course,ALG301,University,Fall 2019
+p063,course,ML201,University,Fall 2020
+p063,club,Security Club,Campus,Spring 2019
+p063,internship,Intern - Google,Google,Summer 2021
+p063,job,Data Scientist,StartUpX,2024
+p064,course,ML201,University,Fall 2018
+p064,course,CV330,University,Fall 2018
+p064,course,CS101,University,Fall 2019
+p064,club,Data Science Club,Campus,Spring 2020
+p064,internship,Research Intern - UnivX,UnivX,Summer 2022
+p064,job,Software Engineer,StartUpX,2024
+p065,course,OS210,University,Fall 2018
+p065,course,DB240,University,Fall 2018
+p065,course,ML201,University,Fall 2019
+p065,course,DS220,University,Fall 2019
+p065,club,Data Science Club,Campus,Spring 2019
+p065,internship,Intern - AcmeTech,AcmeTech,Summer 2021
+p065,job,Data Scientist,AcmeTech,2024
+p066,course,ALG301,University,Fall 2018
+p066,course,DB240,University,Fall 2018
+p066,course,OS210,University,Fall 2019
+p066,course,CS101,University,Fall 2019
+p066,course,DS220,University,Fall 2020
+p066,job,SWE I,CrowdStrike,2019
+p066,job,Software Engineer,Google,2024
+p067,course,CV330,University,Fall 2018
+p067,course,ML201,University,Fall 2018
+p067,course,ALG301,University,Fall 2019
+p067,club,AI Club,Campus,Spring 2019
+p067,research,Research: NLP,Lab,Summer 2020
+p067,internship,Intern - FinanceX,FinanceX,Summer 2021
+p067,job,Security Engineer,CrowdStrike,2024
+p068,course,ALG301,University,Fall 2018
+p068,course,OS210,University,Fall 2018
+p068,course,CS101,University,Fall 2019
+p068,course,DS220,University,Fall 2019
+p068,course,CV330,University,Fall 2020
+p068,club,Robotics Club,Campus,Spring 2021
+p068,research,Research: Robotics,Lab,Summer 2018
+p068,internship,Intern - FinanceX,FinanceX,Summer 2021
+p068,job,Software Engineer,Meta,2024
+p069,course,CV330,University,Fall 2018
+p069,course,CS101,University,Fall 2018
+p069,course,ALG301,University,Fall 2019
+p069,course,DS220,University,Fall 2019
+p069,course,DB240,University,Fall 2020
+p069,course,ML201,University,Fall 2020
+p069,club,Robotics Club,Campus,Spring 2021
+p069,internship,Intern - StartUpX,StartUpX,Summer 2021
+p069,job,Junior Engineer,Google,2019
+p069,job,Machine Learning Engineer,FinanceX,2024
+p070,course,ALG301,University,Fall 2018
+p070,course,OS210,University,Fall 2018
+p070,course,DS220,University,Fall 2019
+p070,course,CV330,University,Fall 2019
+p070,course,ML201,University,Fall 2020
+p070,club,AI Club,Campus,Spring 2020
+p070,internship,Intern - FinanceX,FinanceX,Summer 2020
+p070,job,SWE I,Meta,2019
+p070,job,MLOps Engineer,Meta,2024
+p071,course,CV330,University,Fall 2018
+p071,course,CS101,University,Fall 2018
+p071,course,OS210,University,Fall 2019
+p071,course,DB240,University,Fall 2019
+p071,course,ALG301,University,Fall 2020
+p071,course,DS220,University,Fall 2020
+p071,club,Security Club,Campus,Spring 2018
+p071,internship,Research Intern - UnivX,UnivX,Summer 2020
+p071,job,Security Engineer,StartUpX,2024
+p072,course,CV330,University,Fall 2018
+p072,course,OS210,University,Fall 2018
+p072,course,ALG301,University,Fall 2019
+p072,course,DS220,University,Fall 2019
+p072,course,ML201,University,Fall 2020
+p072,club,Data Science Club,Campus,Spring 2022
+p072,job,Junior Engineer,BetaSoft,2019
+p072,job,Data Scientist,CrowdStrike,2024
+p073,course,ALG301,University,Fall 2018
+p073,course,ML201,University,Fall 2018
+p073,course,OS210,University,Fall 2019
+p073,course,DS220,University,Fall 2019
+p073,course,CS101,University,Fall 2020
+p073,club,Security Club,Campus,Spring 2020
+p073,internship,Intern - StartUpX,StartUpX,Summer 2024
+p073,job,Machine Learning Engineer,CrowdStrike,2024
+p074,course,ML201,University,Fall 2018
+p074,course,ALG301,University,Fall 2018
+p074,course,OS210,University,Fall 2019
+p074,course,CS101,University,Fall 2019
+p074,course,CV330,University,Fall 2020
+p074,internship,Intern - FinanceX,FinanceX,Summer 2019
+p074,job,Data Analyst,StartUpX,2019
+p074,job,Machine Learning Engineer,CrowdStrike,2024
+p075,course,CV330,University,Fall 2018
+p075,course,DS220,University,Fall 2018
+p075,club,AI Club,Campus,Spring 2020
+p075,internship,Research Intern - UnivX,UnivX,Summer 2023
+p075,job,Data Scientist,Google,2024
+p076,course,CV330,University,Fall 2018
+p076,course,ALG301,University,Fall 2018
+p076,course,OS210,University,Fall 2019
+p076,course,CS101,University,Fall 2019
+p076,club,Robotics Club,Campus,Spring 2022
+p076,internship,Intern - StartUpX,StartUpX,Summer 2022
+p076,job,Data Analyst,FinanceX,2019
+p076,job,MLOps Engineer,BetaSoft,2024
+p077,course,ML201,University,Fall 2018
+p077,course,OS210,University,Fall 2018
+p077,course,DS220,University,Fall 2019
+p077,club,Data Science Club,Campus,Spring 2019
+p077,research,Research: NLP,Lab,Summer 2021
+p077,internship,Intern - Google,Google,Summer 2021
+p077,job,Software Engineer,Google,2024
+p078,course,DS220,University,Fall 2018
+p078,course,ML201,University,Fall 2018
+p078,course,CS101,University,Fall 2019
+p078,course,ALG301,University,Fall 2019
+p078,internship,Intern - StartUpX,StartUpX,Summer 2019
+p078,job,SRE,CrowdStrike,2024
+p079,course,OS210,University,Fall 2018
+p079,course,CS101,University,Fall 2018
+p079,course,DS220,University,Fall 2019
+p079,course,ML201,University,Fall 2019
+p079,club,AI Club,Campus,Spring 2020
+p079,research,Research: Robotics,Lab,Summer 2021
+p079,internship,Intern - AcmeTech,AcmeTech,Summer 2020
+p079,job,Data Scientist,BetaSoft,2024
+p080,course,OS210,University,Fall 2018
+p080,course,ALG301,University,Fall 2018
+p080,research,Research: Recommendation,Lab,Summer 2020
+p080,internship,Intern - StartUpX,StartUpX,Summer 2022
+p080,job,Data Scientist,BetaSoft,2024
+p081,course,DS220,University,Fall 2018
+p081,course,ALG301,University,Fall 2018
+p081,course,OS210,University,Fall 2019
+p081,course,DB240,University,Fall 2019
+p081,course,CS101,University,Fall 2020
+p081,course,CV330,University,Fall 2020
+p081,club,Robotics Club,Campus,Spring 2020
+p081,internship,Research Intern - UnivX,UnivX,Summer 2020
+p081,job,Data Analyst,FinanceX,2019
+p081,job,Software Engineer,Google,2024
+p082,course,ALG301,University,Fall 2018
+p082,course,DB240,University,Fall 2018
+p082,course,CV330,University,Fall 2019
+p082,course,OS210,University,Fall 2019
+p082,club,AI Club,Campus,Spring 2020
+p082,research,Research: NLP,Lab,Summer 2018
+p082,internship,Research Intern - UnivX,UnivX,Summer 2019
+p082,job,Security Engineer,Google,2024
+p083,course,CV330,University,Fall 2018
+p083,course,ALG301,University,Fall 2018
+p083,course,ML201,University,Fall 2019
+p083,course,DS220,University,Fall 2019
+p083,club,AI Club,Campus,Spring 2020
+p083,internship,Intern - FinanceX,FinanceX,Summer 2022
+p083,job,SWE I,FinanceX,2019
+p083,job,Data Scientist,StartUpX,2024
+p084,course,CS101,University,Fall 2018
+p084,course,DS220,University,Fall 2018
+p084,course,ML201,University,Fall 2019
+p084,course,CV330,University,Fall 2019
+p084,club,Security Club,Campus,Spring 2022
+p084,internship,Intern - StartUpX,StartUpX,Summer 2022
+p084,job,Junior Engineer,Meta,2019
+p084,job,Machine Learning Engineer,Google,2024
+p085,course,CV330,University,Fall 2018
+p085,course,OS210,University,Fall 2018
+p085,course,DB240,University,Fall 2019
+p085,course,CS101,University,Fall 2019
+p085,course,ALG301,University,Fall 2020
+p085,club,AI Club,Campus,Spring 2019
+p085,internship,Intern - Google,Google,Summer 2021
+p085,job,Data Analyst,AcmeTech,2019
+p085,job,Machine Learning Engineer,Google,2024
+p086,course,CS101,University,Fall 2018
+p086,course,DB240,University,Fall 2018
+p086,course,OS210,University,Fall 2019
+p086,course,DS220,University,Fall 2019
+p086,club,Data Science Club,Campus,Spring 2021
+p086,research,Research: Security,Lab,Summer 2019
+p086,internship,Research Intern - UnivX,UnivX,Summer 2019
+p086,job,Junior Engineer,AcmeTech,2019
+p086,job,Machine Learning Engineer,Meta,2024
+p087,course,ALG301,University,Fall 2018
+p087,course,DS220,University,Fall 2018
+p087,course,OS210,University,Fall 2019
+p087,course,DB240,University,Fall 2019
+p087,course,CV330,University,Fall 2020
+p087,club,Data Science Club,Campus,Spring 2021
+p087,internship,Intern - AcmeTech,AcmeTech,Summer 2023
+p087,job,Data Scientist,FinanceX,2024
+p088,course,ALG301,University,Fall 2018
+p088,course,ML201,University,Fall 2018
+p088,research,Research: Security,Lab,Summer 2021
+p088,internship,Intern - Google,Google,Summer 2020
+p088,job,Data Analyst,BetaSoft,2019
+p088,job,SRE,BetaSoft,2024
+p089,course,OS210,University,Fall 2018
+p089,course,CS101,University,Fall 2018
+p089,course,CV330,University,Fall 2019
+p089,course,DB240,University,Fall 2019
+p089,club,AI Club,Campus,Spring 2020
+p089,internship,Intern - Google,Google,Summer 2022
+p089,job,SRE,FinanceX,2024
+p090,course,CV330,University,Fall 2018
+p090,course,ALG301,University,Fall 2018
+p090,course,ML201,University,Fall 2019
+p090,club,Robotics Club,Campus,Spring 2022
+p090,internship,Intern - AcmeTech,AcmeTech,Summer 2023
+p090,job,Data Analyst,FinanceX,2019
+p090,job,Software Engineer,BetaSoft,2024
+p091,course,DS220,University,Fall 2018
+p091,course,DB240,University,Fall 2018
+p091,club,Robotics Club,Campus,Spring 2018
+p091,research,Research: Security,Lab,Summer 2018
+p091,internship,Intern - FinanceX,FinanceX,Summer 2020
+p091,job,Data Scientist,AcmeTech,2024
+p092,course,CS101,University,Fall 2018
+p092,course,ALG301,University,Fall 2018
+p092,course,ML201,University,Fall 2019
+p092,course,DB240,University,Fall 2019
+p092,course,OS210,University,Fall 2020
+p092,course,CV330,University,Fall 2020
+p092,club,AI Club,Campus,Spring 2018
+p092,research,Research: Recommendation,Lab,Summer 2018
+p092,internship,Intern - AcmeTech,AcmeTech,Summer 2019
+p092,job,Software Engineer,StartUpX,2024
+p093,course,DB240,University,Fall 2018
+p093,course,OS210,University,Fall 2018
+p093,course,CS101,University,Fall 2019
+p093,club,Robotics Club,Campus,Spring 2022
+p093,internship,Research Intern - UnivX,UnivX,Summer 2023
+p093,job,Security Engineer,CrowdStrike,2024
+p094,course,CV330,University,Fall 2018
+p094,course,ALG301,University,Fall 2018
+p094,course,DS220,University,Fall 2019
+p094,course,CS101,University,Fall 2019
+p094,club,Robotics Club,Campus,Spring 2021
+p094,job,MLOps Engineer,Meta,2024
+p095,course,DS220,University,Fall 2018
+p095,course,DB240,University,Fall 2018
+p095,course,ML201,University,Fall 2019
+p095,internship,Intern - AcmeTech,AcmeTech,Summer 2022
+p095,job,Machine Learning Engineer,Meta,2024
+p096,course,CS101,University,Fall 2018
+p096,course,DS220,University,Fall 2018
+p096,course,CV330,University,Fall 2019
+p096,course,ML201,University,Fall 2019
+p096,club,AI Club,Campus,Spring 2022
+p096,internship,Intern - StartUpX,StartUpX,Summer 2022
+p096,job,Machine Learning Engineer,Meta,2024
+p097,course,DS220,University,Fall 2018
+p097,course,ML201,University,Fall 2018
+p097,course,ALG301,University,Fall 2019
+p097,course,OS210,University,Fall 2019
+p097,course,CV330,University,Fall 2020
+p097,club,Robotics Club,Campus,Spring 2018
+p097,internship,Intern - StartUpX,StartUpX,Summer 2021
+p097,job,Software Engineer,Google,2024
+p098,course,ML201,University,Fall 2018
+p098,course,OS210,University,Fall 2018
+p098,course,DS220,University,Fall 2019
+p098,course,DB240,University,Fall 2019
+p098,course,CV330,University,Fall 2020
+p098,club,AI Club,Campus,Spring 2021
+p098,research,Research: NLP,Lab,Summer 2018
+p098,internship,Intern - AcmeTech,AcmeTech,Summer 2023
+p098,job,Junior Engineer,Meta,2019
+p098,job,Software Engineer,Google,2024
+p099,course,OS210,University,Fall 2018
+p099,course,ALG301,University,Fall 2018
+p099,course,DS220,University,Fall 2019
+p099,course,ML201,University,Fall 2019
+p099,course,DB240,University,Fall 2020
+p099,club,Security Club,Campus,Spring 2018
+p099,internship,Intern - Google,Google,Summer 2021
+p099,job,Junior Engineer,StartUpX,2019
+p099,job,Software Engineer,Meta,2024
+p100,course,CS101,University,Fall 2018
+p100,course,DS220,University,Fall 2018
+p100,course,CV330,University,Fall 2019
+p100,course,OS210,University,Fall 2019
+p100,club,Data Science Club,Campus,Spring 2019
+p100,research,Research: Vision,Lab,Summer 2021
+p100,job,SWE I,BetaSoft,2019
+p100,job,Machine Learning Engineer,BetaSoft,2024
+p101,course,OS210,University,Fall 2018
+p101,course,ALG301,University,Fall 2018
+p101,course,CV330,University,Fall 2019
+p101,course,ML201,University,Fall 2019
+p101,course,DB240,University,Fall 2020
+p101,course,DS220,University,Fall 2020
+p101,internship,Research Intern - UnivX,UnivX,Summer 2019
+p101,job,MLOps Engineer,FinanceX,2024
+p102,course,DB240,University,Fall 2018
+p102,course,ALG301,University,Fall 2018
+p102,course,OS210,University,Fall 2019
+p102,course,CS101,University,Fall 2019
+p102,course,DS220,University,Fall 2020
+p102,club,Security Club,Campus,Spring 2022
+p102,research,Research: Robotics,Lab,Summer 2018
+p102,internship,Intern - StartUpX,StartUpX,Summer 2020
+p102,job,SWE I,CrowdStrike,2019
+p102,job,Data Scientist,AcmeTech,2024
+p103,course,CS101,University,Fall 2018
+p103,course,ML201,University,Fall 2018
+p103,course,OS210,University,Fall 2019
+p103,course,DS220,University,Fall 2019
+p103,club,Robotics Club,Campus,Spring 2018
+p103,research,Research: Vision,Lab,Summer 2020
+p103,internship,Intern - FinanceX,FinanceX,Summer 2020
+p103,job,MLOps Engineer,FinanceX,2024
+p104,course,CS101,University,Fall 2018
+p104,course,DS220,University,Fall 2018
+p104,course,OS210,University,Fall 2019
+p104,course,DB240,University,Fall 2019
+p104,club,Robotics Club,Campus,Spring 2020
+p104,internship,Research Intern - UnivX,UnivX,Summer 2023
+p104,job,SWE I,CrowdStrike,2019
+p104,job,Data Scientist,BetaSoft,2024
+p105,course,DB240,University,Fall 2018
+p105,course,ALG301,University,Fall 2018
+p105,course,DS220,University,Fall 2019
+p105,club,Robotics Club,Campus,Spring 2020
+p105,internship,Intern - AcmeTech,AcmeTech,Summer 2023
+p105,job,Security Engineer,Meta,2024
+p106,course,ML201,University,Fall 2018
+p106,course,OS210,University,Fall 2018
+p106,course,ALG301,University,Fall 2019
+p106,course,CS101,University,Fall 2019
+p106,club,Data Science Club,Campus,Spring 2018
+p106,internship,Intern - AcmeTech,AcmeTech,Summer 2022
+p106,job,Software Engineer,CrowdStrike,2024
+p107,course,ML201,University,Fall 2018
+p107,course,ALG301,University,Fall 2018
+p107,course,OS210,University,Fall 2019
+p107,club,Robotics Club,Campus,Spring 2022
+p107,research,Research: Recommendation,Lab,Summer 2018
+p107,internship,Intern - StartUpX,StartUpX,Summer 2022
+p107,job,Junior Engineer,BetaSoft,2019
+p107,job,MLOps Engineer,StartUpX,2024
+p108,course,CS101,University,Fall 2018
+p108,course,CV330,University,Fall 2018
+p108,course,ALG301,University,Fall 2019
+p108,course,DB240,University,Fall 2019
+p108,course,DS220,University,Fall 2020
+p108,club,AI Club,Campus,Spring 2019
+p108,internship,Intern - StartUpX,StartUpX,Summer 2019
+p108,job,Security Engineer,BetaSoft,2024
+p109,course,DS220,University,Fall 2018
+p109,course,CS101,University,Fall 2018
+p109,course,ML201,University,Fall 2019
+p109,course,OS210,University,Fall 2019
+p109,course,DB240,University,Fall 2020
+p109,course,ALG301,University,Fall 2020
+p109,club,Data Science Club,Campus,Spring 2020
+p109,internship,Intern - AcmeTech,AcmeTech,Summer 2022
+p109,job,Machine Learning Engineer,AcmeTech,2024
+p110,course,ALG301,University,Fall 2018
+p110,course,ML201,University,Fall 2018
+p110,club,Security Club,Campus,Spring 2020
+p110,research,Research: Security,Lab,Summer 2020
+p110,internship,Research Intern - UnivX,UnivX,Summer 2020
+p110,job,Software Engineer,AcmeTech,2024
+p111,course,DS220,University,Fall 2018
+p111,course,ML201,University,Fall 2018
+p111,club,Data Science Club,Campus,Spring 2018
+p111,job,Data Analyst,Meta,2019
+p111,job,Machine Learning Engineer,Meta,2024
+p112,course,CV330,University,Fall 2018
+p112,course,OS210,University,Fall 2018
+p112,course,CS101,University,Fall 2019
+p112,club,Robotics Club,Campus,Spring 2021
+p112,research,Research: Recommendation,Lab,Summer 2021
+p112,internship,Research Intern - UnivX,UnivX,Summer 2022
+p112,job,SRE,FinanceX,2024
+p113,course,ML201,University,Fall 2018
+p113,course,OS210,University,Fall 2018
+p113,course,DB240,University,Fall 2019
+p113,club,Security Club,Campus,Spring 2018
+p113,internship,Intern - StartUpX,StartUpX,Summer 2021
+p113,job,Data Analyst,CrowdStrike,2019
+p113,job,MLOps Engineer,Google,2024
+p114,course,CV330,University,Fall 2018
+p114,course,ML201,University,Fall 2018
+p114,course,DS220,University,Fall 2019
+p114,research,Research: Vision,Lab,Summer 2020
+p114,job,Machine Learning Engineer,AcmeTech,2024
+p115,course,ALG301,University,Fall 2018
+p115,course,ML201,University,Fall 2018
+p115,club,Security Club,Campus,Spring 2018
+p115,internship,Intern - StartUpX,StartUpX,Summer 2023
+p115,job,SWE I,Google,2019
+p115,job,Data Scientist,CrowdStrike,2024
+p116,course,CS101,University,Fall 2018
+p116,course,DB240,University,Fall 2018
+p116,course,ML201,University,Fall 2019
+p116,course,DS220,University,Fall 2019
+p116,course,ALG301,University,Fall 2020
+p116,research,Research: Vision,Lab,Summer 2021
+p116,internship,Intern - AcmeTech,AcmeTech,Summer 2021
+p116,job,Junior Engineer,StartUpX,2019
+p116,job,Machine Learning Engineer,FinanceX,2024
+p117,course,CS101,University,Fall 2018
+p117,course,ALG301,University,Fall 2018
+p117,club,AI Club,Campus,Spring 2018
+p117,research,Research: Security,Lab,Summer 2019
+p117,internship,Intern - Google,Google,Summer 2019
+p117,job,Machine Learning Engineer,BetaSoft,2024
+p118,course,CV330,University,Fall 2018
+p118,course,DB240,University,Fall 2018
+p118,course,CS101,University,Fall 2019
+p118,course,ML201,University,Fall 2019
+p118,course,DS220,University,Fall 2020
+p118,club,AI Club,Campus,Spring 2020
+p118,research,Research: Vision,Lab,Summer 2020
+p118,internship,Research Intern - UnivX,UnivX,Summer 2024
+p118,job,Data Analyst,CrowdStrike,2019
+p118,job,Data Scientist,Google,2024
+p119,course,DB240,University,Fall 2018
+p119,course,OS210,University,Fall 2018
+p119,course,ALG301,University,Fall 2019
+p119,club,Security Club,Campus,Spring 2022
+p119,internship,Intern - StartUpX,StartUpX,Summer 2021
+p119,job,SWE I,Meta,2019
+p119,job,Security Engineer,Meta,2024
+p120,course,ALG301,University,Fall 2018
+p120,course,ML201,University,Fall 2018
+p120,course,CS101,University,Fall 2019
+p120,course,CV330,University,Fall 2019
+p120,course,DB240,University,Fall 2020
+p120,research,Research: Robotics,Lab,Summer 2021
+p120,job,SWE I,Google,2019
+p120,job,Software Engineer,Google,2024
