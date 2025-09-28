@@ -21,6 +21,8 @@ This is a Python prototype that generates a **career path graph** based on a use
 Dependencies:
 
 ```bash
+source .venv/bin/activate
+
 pip install pandas faker pyvis networkx
 ```
 ```bash
