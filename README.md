@@ -9,8 +9,8 @@ This is a Python prototype that generates a **career path graph** based on a use
 
 ---
 <p align="center">
-  <img src="/ss1.png" width="400" />
-  <img src="/ss2.png" width="400" />
+  <img src="/ss1.png" height="400" />
+  <img src="/ss2.png" height="400" />
 </p>
 ## Requirements
 
