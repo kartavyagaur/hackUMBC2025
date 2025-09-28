@@ -40,15 +40,7 @@ python3 src/generate_data.py
 
 ## Run the visualization:
 ```bash
-python3 src/demo_visualize.py \
-  --company AcmeTech \
-  --position "Machine Learning Engineer" \
-  --name "Alex" \
-  --courses "CS101,ML201" \
-  --internships "Intern - FinanceX" \
-  --clubs "Robotics Club,Data Science Club" \
-  --research "Research: Vision" \
-  --out plan.html
+ python3 src/demo_visualize.py --company AcmeTech --position "Machine Learning Engineer" --name "Alex" --courses "CS101,ML201" --internships "Intern - FinanceX" --out plan.html
 ```
 ## Open the generated html:
 xdg-open plan.html
